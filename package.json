@@ -1,0 +1,15 @@
+{
+  "name": "alt-school",
+  "version": "1.0.0",
+  "description": "Authentication",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaruq",
+  "license": "ISC"
+}
